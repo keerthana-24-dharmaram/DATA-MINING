@@ -1,5 +1,6 @@
 # DATA-MINING
 #2025
+
 [LAB-01](https://github.com/keerthana-24-dharmaram/DATA-MINING/blob/main/Lab_01.ipynb):1) Load a dataset (CSV/Excel/JSON) using Pandas.
                                                                                        2) Handle missing values (mean, median, or mode imputation).
                                                                                        3) Perform feature scaling (min-max normalization or standardization).
