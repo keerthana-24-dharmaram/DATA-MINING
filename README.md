@@ -18,7 +18,7 @@
                                                                                                
 [LAB-04](https://github.com/keerthana-24-dharmaram/DATA-MINING/blob/main/LAB_04(1).ipynb):4. Data Transformation
 
-   1. Perform data encoding (one-hot encoding, label encoding).
+  1. Perform data encoding (one-hot encoding, label encoding).
     
    2.Create new derived columns using existing data (e.g., age from a date of birth).
    
